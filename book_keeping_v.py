@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 10 20:43:05 2018
 
-@author: Gad
+@author: Gad Drori
 """
 
 #use these dictionaries as input
