@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 10 12:46:45 2018
 
-@author: Gad
+@author: Gad Drori
 """
 #this function is meant to check if a given number fits the needed 4 conditions
 def con_fit (number):
